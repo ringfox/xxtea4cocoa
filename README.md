@@ -1,5 +1,7 @@
 ### Objective-C wrapper for XXTEA
 
+#cool
+
 #### Usage
 
     #import "NSString+XXTEA.h"
