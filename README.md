@@ -1,6 +1,6 @@
 ### Objective-C wrapper for XXTEA
 
-#cool
+### tower git supported
 
 #### Usage
 
